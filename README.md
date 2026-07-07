@@ -1,6 +1,6 @@
-# ARCADE
+# RAGNAROK
 
-Arcade é um espaço de fliperamas onde:
+Ragnarok é um espaço de fliperamas onde:
 
 1. os usuários podem se cadastrar no sistema
 2. os usuários podem comprar fichas para jogar
