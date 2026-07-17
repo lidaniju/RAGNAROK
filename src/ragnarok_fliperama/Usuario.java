@@ -28,8 +28,24 @@ public class Usuario {
 			produto.Reduzir_estoque();
 			produto.Pedido();
 		}else {
+			System.out.println("Não foi possível comprar " + produto.getNome_produto() + " (sem estoque).");
+		}
+		
+	public void Jogar(Fliperama fliperama) {
+		if(this.saldo_fichas >= Fliperama.getCusto_fichas()) {
 			
 		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	}
 
 }
