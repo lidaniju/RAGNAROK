@@ -6,9 +6,9 @@ public class Main {
 		// TODO Stub de método gerado automaticamente
 			var usuario =  new Usuario();
 			
-			usuario.comprarFichas(10);
+			usuario.Comprar_fichas(10);
 			
-			System.out.println(usuario.verSaldo());
+			System.out.println(usuario.Ver_saldo());
 	}
 
 }
